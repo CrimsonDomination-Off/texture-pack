@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {"threshold": 100000, "model": { "type": "model", "model": "item/pog/poga" }  },
+      {"threshold": 200000, "model": { "type": "model", "model": "item/pog/pogb" }  },
+      {"threshold": 300000, "model": { "type": "model", "model": "item/pog/pogc" }  },
+      {"threshold": 400000, "model": { "type": "model", "model": "item/pog/pogd" }  },
+      {"threshold": 500000, "model": { "type": "model", "model": "item/pog/poge" }  },
+      {"threshold": 600000, "model": { "type": "model", "model": "item/pog/pogf" }  },
+      {"threshold": 700000, "model": { "type": "model", "model": "item/pog/pogg" }  },
+      {"threshold": 800000, "model": { "type": "model", "model": "item/pog/pogh" }  },
+      {"threshold": 900000, "model": { "type": "model", "model": "item/pog/pogi" }  },
+      {"threshold": 1000000, "model": { "type": "model", "model": "item/pog/pogj" }  },
+      {"threshold": 1100000, "model": { "type": "model", "model": "item/pog/pogk" }  },
+      {"threshold": 1200000, "model": { "type": "model", "model": "item/pog/pogl" }  },
+      {"threshold": 1300000, "model": { "type": "model", "model": "item/pog/pogm" }  },
+      {"threshold": 1400000, "model": { "type": "model", "model": "item/pog/pogn" }  },
+      {"threshold": 1500000, "model": { "type": "model", "model": "item/pog/pogo" }  },
+      {"threshold": 1600000, "model": { "type": "model", "model": "item/pog/pogp" }  },
+      {"threshold": 1700000, "model": { "type": "model", "model": "item/pog/pogq" }  },
+      {"threshold": 1800000, "model": { "type": "model", "model": "item/pog/pogr" }  },
+      {"threshold": 1900000, "model": { "type": "model", "model": "item/pog/pogs" }  },
+      {"threshold": 2000000, "model": { "type": "model", "model": "item/pog/pogt" }  }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/stone_pickaxe"
+    }
+  }
+}

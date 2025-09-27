@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "description": "Pickaxe of the Gods – créer par et pour Crimson Domination Off.",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 99
+    }
+  }
+}

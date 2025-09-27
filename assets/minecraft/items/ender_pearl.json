@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {"threshold": 1, "model": { "type": "model", "model": "item/capacity/bha" }  },
+      {"threshold": 2, "model": { "type": "model", "model": "item/capacity/bhb" }  },
+      {"threshold": 3, "model": { "type": "model", "model": "item/capacity/fournace" }  },
+      {"threshold": 4, "model": { "type": "model", "model": "item/capacity/silk-touch" }  },
+      {"threshold": 5, "model": { "type": "model", "model": "item/capacity/fortune" }  },
+      {"threshold": 6, "model": { "type": "model", "model": "item/capacity/aog" }  },
+      {"threshold": 7, "model": { "type": "model", "model": "item/capacity/sog" }  }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/ender_pearl"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_pearl"
+    },
+    
+    
+    "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/capacity/bha"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/capacity/bhb"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/capacity/fournace"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/capacity/silk-touch"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/capacity/fortune"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/capacity/aog"},
+    {"predicate": {"custom_model_data": 7}, "model": "item/capacity/sog"}
+
+    ]
+}
