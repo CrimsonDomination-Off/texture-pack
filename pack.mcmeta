@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "description": "Pickaxe of the Gods for plugin. 1.14+ and for Paladium",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 99
+    }
+  }
+}
